@@ -1,0 +1,61 @@
+#heading1{
+    text-align: center;
+    color: magenta;
+    font-weight: bolder;
+    font-size: 60px;
+}
+.paragraph{
+    font-style: italic;
+}
+
+#division1{
+    background-color: #62b7d3;
+    color: white;
+    margin: 40px;
+    padding: 30px;
+    border-radius: 10px;
+}
+#division1:hover{
+    background-color: black;
+}
+
+#division1 button{
+    background-color: grey;
+    width: 200px;
+    height: 50px;
+    color: white;
+    font-size: 20px;
+    border-radius: 20px;
+    display: block;
+    margin: 0 auto;
+}
+.sub{
+    text-align: center;
+    background-color: #62b7d3;
+    margin-right: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 12px grey;
+    color: white;
+}
+.sub:hover{
+    background-color: #bb268e;
+}
+
+
+
+
+
+#mercedes{
+    display: flex;
+    margin: 20px;
+}
+#image{
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+    border-radius: 600px;
+}
+#main{
+    display: flex;
+}
